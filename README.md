@@ -19,9 +19,9 @@
 
 ### 开发环境
 
-Hadoop: hadoop-2.6.0-cdh5.15.1
-JDK: 1.8
-IDE: IDEA
+* Hadoop:  hadoop-2.6.0-cdh5.15.1
+* JDK: 1.8
+* IDE: IDEA
 
 
 
